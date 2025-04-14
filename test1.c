@@ -3,9 +3,9 @@
 int main()
 {
    char a,b,c;
-   scanf("%s",&a);
+   scanf("%10s",&a);
    b=c;
-   printf("%s")
+   printf("%s",a);
    printf("hello world\n");
    printf("%s\n",a);
    printf("ok");
