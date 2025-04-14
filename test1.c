@@ -6,4 +6,5 @@ int main()
    printf("hello world\n");
    printf("%s\n",a);
    printf("ok");
+   return 0;
 }
