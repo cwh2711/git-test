@@ -6,6 +6,6 @@ int main()
    scanf("%s",&a);
    printf("a=");
    printf("%s\n",a);
-   printf("dangerous:no bound");
+   printf("dangerous:no bound !!!");
    return 0;
 }
