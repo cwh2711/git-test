@@ -2,8 +2,8 @@
 #include <string.h>
 int main()
 {
-   char a[2];
-   scanf("%1s",&a);
+   char a[];
+   scanf("%s",&a);
    printf("a=");
    printf("%s\n",a);
    printf("dangerous:no bound !!!cannot connect");
