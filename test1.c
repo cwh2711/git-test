@@ -18,7 +18,7 @@ int main()
 {
    char a[10];
    int b,c,d;
-   scanf("%s",&a);
+   //scanf("%s",&a);
    scanf("%2d %2d",&b,&c);
    d=re(b,c);
    printf("a=");
