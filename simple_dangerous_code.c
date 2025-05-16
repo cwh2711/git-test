@@ -3,7 +3,7 @@
 int main()
 {
    char a[];
-   scanf("%s",&a);
+   //scanf("%s",&a);
    printf("a=");
    printf("%s\n",a);
    printf("dangerous:no bound !!!");
